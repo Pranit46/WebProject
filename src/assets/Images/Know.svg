@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="42" viewBox="0 0 133 42">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#FE5814" stroke-width="2" d="M0 0H131V40H0z" transform="translate(1 1)"/>
+        <g>
+            <text fill="#FE5814" font-family="Merriweather-Bold, Merriweather" font-size="14" font-weight="bold" transform="translate(1 1) translate(16 8) translate(0 4)">
+                <tspan x="0" y="14">Know Us</tspan>
+            </text>
+            <g>
+                <path d="M0 0L19.354 0 19.354 23.04 0 23.04z" transform="translate(1 1) translate(16 8) translate(78.92 .96)"/>
+                <path fill="#FE5814" fill-rule="nonzero" d="M9.677 3.84L8.54 5.194 13.039 10.56 3.226 10.56 3.226 12.48 13.039 12.48 8.54 17.846 9.677 19.2 16.128 11.52z" transform="translate(1 1) translate(16 8) translate(78.92 .96)"/>
+            </g>
+        </g>
+    </g>
+</svg>
